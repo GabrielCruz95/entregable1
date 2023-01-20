@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+.gradiente {
+    background-image: linear-gradient(to right, rgba(0, 0, 255, 0.848), rgba(0, 255, 247, 0.93)); }
+
+.fondo {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-image: url(./assets/img/fondo.avif);
+        background-attachment: fixed; }
+img {
+            max-width: 100%;
+            height: auto;
+            padding: 7px; }
+
+.logo img {
+height: auto;
+width: 75px; }         
+
+h1, h2, h3,p {
+  color: white; }
